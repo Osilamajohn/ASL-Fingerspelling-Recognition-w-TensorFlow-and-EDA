@@ -1,1 +1,1 @@
-# ASL-Fingerspelling-Recognition-w-TensorFlow-and-EDA
+# ASL-Fingerspelling-Recognition-with-TensorFlow-and-EDA
